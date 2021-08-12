@@ -1,4 +1,4 @@
-# Vue 3 setup syntas sugar demo
+# Vue 3 setup syntax sugar demo
 
 ## features
 
